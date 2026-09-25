@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Albert Khan 👋
 
-<!--
-**albertkhanpro/albertkhanpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced **SEO Specialist & Full-Stack Web Developer** specializing in organic traffic growth, high-authority link-building architectures, and conversion-focused web platforms. Currently optimizing digital experiences, search rankings, and strategic content for **[Planbet](https://planbet.company)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Core Expertise
+- **Search Engine Optimization:** Technical Audits, High-Authority Link Building, On-Page & Off-Page SEO
+- **Web Development:** Modern Web Frameworks, Speed & Performance Optimization, Responsive Architecture
+- **Digital Growth:** Content Marketing Strategy, iGaming & Sports Entertainment Platforms, Keyword Domination
+
+---
+
+### 🌐 Featured Platform
+Explore our official sports and entertainment ecosystem:  
+👉 **[Planbet - Sports & Gaming Hub](https://planbet.company)**
+
+---
+
+### 📬 Connect With Me
+- **Telegram:** [Chat on Telegram](https://t.me/Albert_Khan_Pro)
+- **Gravatar Profile:** [Albert Khan Gravatar](https://gravatar.com)
